@@ -19,7 +19,8 @@
 ![Amp](https://img.shields.io/badge/Amp-005AF0?style=for-the-badge&logo=amp&logoColor=white)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/SuhailM.png" alt="TryHackMe">
-<img src="https://tryhackme.com/SuhailM/badges/mr-robot" alt="TryHackMe">
+
+<script src="https://tryhackme.com/SuhailM/badges/mr-robot"></script>
 
 
 
