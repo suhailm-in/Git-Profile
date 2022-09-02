@@ -1,7 +1,7 @@
 # Hi there, I'm Suhail! 👋
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=suhail&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhail&layout=compact" />
+
 
 ![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
