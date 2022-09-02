@@ -18,6 +18,5 @@
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Amp](https://img.shields.io/badge/Amp-005AF0?style=for-the-badge&logo=amp&logoColor=white)
 
-<script src="https://tryhackme.com/badge/687328"></script>
 <img src="https://tryhackme-badges.s3.amazonaws.com/SuhailM.png" alt="TryHackMe">
 
